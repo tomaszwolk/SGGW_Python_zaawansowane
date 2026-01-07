@@ -3,24 +3,24 @@
 Projekt zaliczeniowy z przedmiotu **Zaawansowane programowanie w Pythonie**.
 Aplikacja jest asynchronicznym scraperem danych ze strony [rejestradwokatow.pl](https://www.rejestradwokatow.pl/adwokat). Pobiera dane adwokatów (dane osobowe, status, email, kancelaria, specjalizacje) z wybranych miejscowości i zapisuje je w ustrukturyzowanej formie (JSON/CSV).
 
-## 🏆 Realizacja Kryteriów Oceny (50/50 pkt)
+## 🏆 Realizacja Kryteriów Oceny
 
 Projekt spełnia wszystkie wymagania podstawowe oraz dodatkowe:
 
-*   ✅ **Dataclasses (10pkt):** Modele danych w `src/domain.py` wykorzystują `@dataclass`.
-*   ✅ **Async/Multithreading (10pkt):** Wykorzystanie `asyncio`, `aiohttp` oraz `asyncio.Semaphore` do równoległego pobierania danych bez blokowania I/O.
-*   ✅ **Wzorce Projektowe / SOLID (10pkt):**
+*   ✅ **Dataclasses:** Modele danych w `src/domain.py` wykorzystują `@dataclass`.
+*   ✅ **Async/Multithreading:** Wykorzystanie `asyncio`, `aiohttp` oraz `asyncio.Semaphore` do równoległego pobierania danych bez blokowania I/O.
+*   ✅ **Wzorce Projektowe / SOLID:**
     *   **Builder:** Oddzielenie logiki parsowania HTML od modelu danych (`AdwokatBuilder`).
     *   **Repository/Strategy:** Abstrakcja zapisu danych (`JsonAdwokatRepository`, `CsvAdwokatRepository`) zgodna z Zasadą Odwrócenia Zależności (DIP).
-*   ✅ **Testy Jednostkowe (10pkt):** Testy w `pytest` pokrywające logikę domeny, parsowanie HTML (Builder) oraz zapis plików.
-*   ✅ **Typowanie (10pkt):** Pełne wykorzystanie Type Hints oraz walidacja statyczna (projekt przechodzi sprawdzanie przez `basedpyright`).
-*   ✅ **Bonus: Enum (5pkt):** `StatusAdwokata` dziedziczący po `str` i `Enum` do bezpiecznego mapowania statusów.
-*   ✅ **Bonus: Pydantic (5pkt):** Wykorzystanie `pydantic.dataclasses` do walidacji danych wejściowych.
+*   ✅ **Testy Jednostkowe:** Testy w `pytest` pokrywające logikę domeny, parsowanie HTML (Builder) oraz zapis plików.
+*   ✅ **Typowanie:** Pełne wykorzystanie Type Hints oraz walidacja statyczna (projekt przechodzi sprawdzanie przez `basedpyright`).
+*   ✅ **Bonus: Enum:** `StatusAdwokata` dziedziczący po `str` i `Enum` do bezpiecznego mapowania statusów.
+*   ✅ **Bonus: Pydantic:** Wykorzystanie `pydantic.dataclasses` do walidacji danych wejściowych.
 
 ## 🛠️ Technologie
 
 *   **Python 3.12+**
-*   **uv** - nowoczesny menedżer pakietów (zamiast pip/poetry).
+*   **uv** - nowoczesny menedżer pakietów.
 *   **aiohttp** - asynchroniczne zapytania HTTP.
 *   **BeautifulSoup4** - parsowanie HTML.
 *   **Pydantic** - walidacja danych.
@@ -38,7 +38,7 @@ Projekt wykorzystuje `uv` do zarządzania zależnościami, ale można go uruchom
     ```
 2.  Uruchom scraper:
     ```bash
-    uv run python main.py
+    uv run main.py
     ```
 
 ### Opcja B: Używając standardowego `pip`
@@ -121,4 +121,24 @@ classDiagram
 
     MainScript ..> AdwokatScraper : uses
     MainScript ..> AdwokatRepository : uses
+```
+
+Aby uruchomić testy:
+```bash
+uv run pytest
+```
+
+Struktura projektu:
+```bash
+.
+├── src/
+│   ├── domain.py          # Modele danych (Pydantic Dataclasses)
+│   ├── storage.py         # Wzorzec Repository (JSON/CSV)
+│   └── scraper/
+│       ├── builder.py     # Parsowanie HTML (Builder Pattern)
+│       └── engine.py      # Logika sieciowa (AsyncIO, aiohttp)
+├── tests/                 # Testy jednostkowe
+├── main.py                # Punkt wejścia (Entry Point)
+├── pyproject.toml         # Konfiguracja projektu i lintera
+└── README.md              # Dokumentacja
 ```
