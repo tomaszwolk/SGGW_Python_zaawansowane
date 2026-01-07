@@ -1,0 +1,838 @@
+[
+    {
+        "imie": "Aleksandra",
+        "nazwisko": "Głowacka",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Wrocław"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/gowacka-aleksandra-80218",
+        "nr_legitymacji": "WRO/Adw/1948",
+        "email": "rada@ora.wroc.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka Aleksandra Głowacka",
+            "adres": "Reymonta 6, 56-500 Syców"
+        },
+        "specjalizacje": [
+            "Prawo gospodarcze",
+            "Prawo i postępowanie cywilne",
+            "Prawo i postępowanie karne",
+            "Prawo odszkodowawcze",
+            "Prawo spadkowe"
+        ]
+    },
+    {
+        "imie": "Magdalena",
+        "nazwisko": "Głowacka-Kwiatkowska",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Wrocław"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/gowacka-kwiatkowska-magdalena-60796",
+        "nr_legitymacji": "WRO/Adw/842",
+        "email": "adglowackakwiatkowska@o2.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Wolności 6  /5, 56-500 Syców"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Natalia",
+        "nazwisko": "Gnat",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Wrocław"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/gnat-natalia-60488",
+        "nr_legitymacji": "WRO/Adw/997",
+        "email": "adw.nataliagnat@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka adw. Natalia Gnat",
+            "adres": "Junacka 8D, 54-020 Wrocław"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Daria",
+        "nazwisko": "Kuczyńska - Masiuk",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Wrocław"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/kuczyska--masiuk--daria-32597",
+        "nr_legitymacji": "WRO/ADW/2288",
+        "email": "d_kuczynska@op.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka adwokat Daria Kuczyńska-Masiuk",
+            "adres": "Garncarska  6  /1, 56-500 Syców"
+        },
+        "specjalizacje": [
+            "Prawo gospodarcze",
+            "Prawo i postępowanie administracyjne",
+            "Prawo i postępowanie cywilne",
+            "Prawo i postępowanie karne",
+            "Prawo rodzinne i opiekuńcze"
+        ]
+    },
+    {
+        "imie": "Małgorzata",
+        "nazwisko": "Maciaszek",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Wrocław"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/maciaszek-magorzata-61285",
+        "nr_legitymacji": "WRO/Adw/1033",
+        "email": "gosiamaciaszek@op.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Jana Pawła II 12  /1, 53-500 Syców"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Marcin",
+        "nazwisko": "Bauer-Breczko",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/bauer-breczko-marcin-53168",
+        "nr_legitymacji": "KRA/Adw/2049",
+        "email": "kancelaria_marcin_bauer@poczta.fm",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Beliny Prażmowskiego 71  /9, 31-514 Kraków"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Daria",
+        "nazwisko": "Bonczar",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kielce"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/bonczar-daria-91538",
+        "nr_legitymacji": "KIE/ADW/868",
+        "email": "daria.bonczar@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Cudzynowice 208, 28-500 Kazimierza Wielka"
+        },
+        "specjalizacje": []
+    },
+    {
+        "imie": "Jakub",
+        "nazwisko": "Chamielec",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/chamielec-jakub-36506",
+        "nr_legitymacji": "KRA/ADW/4034",
+        "email": "jakub.chamielec.kancelaria@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Gwarków 46, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Prawo i postępowanie cywilne",
+            "Prawo odszkodowawcze",
+            "Prawo restrukturyzacyjne"
+        ]
+    },
+    {
+        "imie": "Zbigniew",
+        "nazwisko": "Cichoń",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/cicho-zbigniew-52921",
+        "nr_legitymacji": "KRA/Adw/1503",
+        "email": "adwokat@zbigniewcichon.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Plac Kościuszki 1, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Agnieszka",
+        "nazwisko": "Dymek-Michalska",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/dymek-michalska-agnieszka-52395",
+        "nr_legitymacji": "KRA/Adw/3063",
+        "email": "a.michalska@msadwokaci.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Moniuszki 3  /8, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Ewelina",
+        "nazwisko": "Filińska-Kęsek",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/filiska-ksek-ewelina-52807",
+        "nr_legitymacji": "KRA/Adw/2634",
+        "email": "filinska.kesek@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Goliana  14, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Katarzyna",
+        "nazwisko": "Frankiewicz-Burda",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/frankiewicz-burda-katarzyna-53241",
+        "nr_legitymacji": "KRA/Adw/2755",
+        "email": "adwokatkfb@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Al. Beliny-Prażmowskiego 14A  /1, 31-514 Kraków"
+        },
+        "specjalizacje": [
+            "Prawo i postępowanie karne",
+            "Prawo odszkodowawcze",
+            "Prawo rodzinne i opiekuńcze"
+        ]
+    },
+    {
+        "imie": "Norbert",
+        "nazwisko": "Gaczoł",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/gaczo-norbert-89919",
+        "nr_legitymacji": "KRA/ADW/4316",
+        "email": "ora@adwokatura.krakow.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Przebieczany 579, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Prawo budowlane i zagospodarowania przestrzennego",
+            "Prawo gospodarcze",
+            "Prawo i postępowanie cywilne"
+        ]
+    },
+    {
+        "imie": "Łukasz",
+        "nazwisko": "Gałka",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/gaka-ukasz-52789",
+        "nr_legitymacji": "KRA/Adw/2930",
+        "email": "lgalka@kancelariastg.pl",
+        "kancelaria": {
+            "nazwa": "Spółka",
+            "adres": "Kancelaria Adwokacka STG Sierbiński, Gałka i Partnerzy Spółka Partnerska, Porucznika B. Szpunara 27 A, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Mateusz",
+        "nazwisko": "Gałka",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/gaka-mateusz-53649",
+        "nr_legitymacji": "KRA/Adw/3214",
+        "email": "mateusz.galka@outlook.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Kosiby 6  /1m, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna",
+            "Prawo i postępowanie cywilne",
+            "Prawo i postępowanie karne",
+            "Prawo odszkodowawcze",
+            "Prawo spadkowe"
+        ]
+    },
+    {
+        "imie": "Magdalena",
+        "nazwisko": "Grzesiak",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/grzesiak-magdalena-36641",
+        "nr_legitymacji": "KRA/ADW/3916",
+        "email": "kancelaria@grzesiak-adwokat.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Kilińskiego 15, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Prawo i postępowanie administracyjne",
+            "Prawo i postępowanie cywilne",
+            "Prawo i postępowanie karne",
+            "Prawo rodzinne i opiekuńcze",
+            "Prawo spadkowe"
+        ]
+    },
+    {
+        "imie": "Paweł",
+        "nazwisko": "Król",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/krl-pawe-53491",
+        "nr_legitymacji": "KRA/Adw/2888",
+        "email": "pawel.krol@adwokat-krol.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Dembowskiego 59, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Prawo budowlane i zagospodarowania przestrzennego",
+            "Prawo gospodarcze",
+            "Prawo i postępowanie administracyjne",
+            "Prawo i postępowanie cywilne",
+            "Prawo spółek"
+        ]
+    },
+    {
+        "imie": "Michał",
+        "nazwisko": "Łyżwa",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/ywa-micha-52348",
+        "nr_legitymacji": "KRA/Adw/2564",
+        "email": "kancelaria@adwokatwieliczka.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Limanowskiego 12  /2, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Wiesław",
+        "nazwisko": "Marciniec",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/marciniec-wiesaw-36640",
+        "nr_legitymacji": "KRA/ADW/3937",
+        "email": "w.marciniec@wfmlegal.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Kilińskiego 15, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna",
+            "Prawo budowlane i zagospodarowania przestrzennego",
+            "Prawo gospodarcze",
+            "Prawo i postępowanie cywilne",
+            "Prawo obrotu nieruchomościami"
+        ]
+    },
+    {
+        "imie": "Radosław",
+        "nazwisko": "Misztal",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/misztal-radosaw-52312",
+        "nr_legitymacji": "KRA/Adw/2571",
+        "email": "kancelaria@adwokatmisztal.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Rynek Górny 12  /2, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Agnieszka",
+        "nazwisko": "Pankiewicz",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/pankiewicz-agnieszka-53271",
+        "nr_legitymacji": "KRA/Adw/2436",
+        "email": "agnieszka.pankiewicz@adwokatura.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Moniuszki 3  /8, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Katarzyna",
+        "nazwisko": "Piwowarczyk-Szczurowska",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/piwowarczyk-szczurowska-katarzyna-52438",
+        "nr_legitymacji": "KRA/Adw/2472",
+        "email": "kps@themidis.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Leśna 2, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Katarzyna",
+        "nazwisko": "Procyk-Wypyska",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/procyk-wypyska-katarzyna-52332",
+        "nr_legitymacji": "KRA/Adw/2808",
+        "email": "katarzyna.procyk@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Magnoliowa 1 E, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Marcin",
+        "nazwisko": "Prüffer",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/prffer-marcin-52791",
+        "nr_legitymacji": "KRA/Adw/2586",
+        "email": "kontakt@pruffer.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Goliana 14, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Piotr",
+        "nazwisko": "Rorbach",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/rorbach-piotr-53132",
+        "nr_legitymacji": "KRA/Adw/2424",
+        "email": "wrkancelaria@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Kazimierza Wielkiego  7  /6, 32-700 Bochnia"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Magdalena",
+        "nazwisko": "Seweryn-Misztal",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/seweryn-misztal-magdalena-52722",
+        "nr_legitymacji": "KRA/Adw/2592",
+        "email": "seweryn-misztal@gladyszowski.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Danka 8  /25-26, 31-229 Kraków"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Artur",
+        "nazwisko": "Sierbiński",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/sierbiski-artur-53007",
+        "nr_legitymacji": "KRA/Adw/2707",
+        "email": "asierbinski@kancelariastg.pl",
+        "kancelaria": {
+            "nazwa": "Spółka",
+            "adres": "Kancelaria Adwokacka STG Sierbiński, Gałka i Partnerzy Spółka Partnerska, Porucznika B. Szpunara 27 A, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Piotr",
+        "nazwisko": "Sołhaj",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/sohaj-piotr-52688",
+        "nr_legitymacji": "KRA/Adw/1759",
+        "email": "piotr.solhaj@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Rzeźnicza 9, 31-540 Kraków"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Magdalena",
+        "nazwisko": "Sułkowska",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/sukowska-magdalena-83407",
+        "nr_legitymacji": "KRA/Adw/3605",
+        "email": "ma.sulkowska@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Mogilska 11  /10, 31-542 Kraków"
+        },
+        "specjalizacje": [
+            "Prawo i postępowanie karne"
+        ]
+    },
+    {
+        "imie": "Monika",
+        "nazwisko": "Szafirowska",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/szafirowska-monika-88329",
+        "nr_legitymacji": "KRA/ADW/4264",
+        "email": "monikaszafirowska@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Ks. Goliana 4A, 32-020 Wieliczka"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna",
+            "Prawo i postępowanie administracyjne",
+            "Prawo i postępowanie cywilne",
+            "Prawo i postępowanie karne",
+            "Prawo rodzinne i opiekuńcze"
+        ]
+    },
+    {
+        "imie": "Joanna",
+        "nazwisko": "Śledzińska",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/ledziska-joanna-83433",
+        "nr_legitymacji": "KRA/Adw/3592",
+        "email": "kancelaria@rymarowicz.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Rynek 18, 32-050 Skawina"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna",
+            "Prawo i postępowanie cywilne",
+            "Prawo i postępowanie karne",
+            "Prawo odszkodowawcze",
+            "Prawo rodzinne i opiekuńcze"
+        ]
+    },
+    {
+        "imie": "Robert",
+        "nazwisko": "Tomczyk",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/tomczyk-robert-52550",
+        "nr_legitymacji": "KRA/Adw/2464",
+        "email": "adwokatbochnia@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Os. Centrum C 10  /49, 31-931 Kraków"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Kinga",
+        "nazwisko": "Węgiel",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/wgiel-kinga-52305",
+        "nr_legitymacji": "KRA/Adw/2647",
+        "email": "kwegiel@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Rynek  2, 32-800 Brzesko"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Magdalena",
+        "nazwisko": "Wieszczek",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Kraków"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/wieszczek-magdalena-53431",
+        "nr_legitymacji": "KRA/Adw/3144",
+        "email": "magdalenawieszczek.adwokat@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Szlak 8  /7, 31-161 Kraków"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Anna",
+        "nazwisko": "Gabryś",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Poznań"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/gabry-anna-57239",
+        "nr_legitymacji": "POZ/Adw/2802",
+        "email": "kancelaria_adwokacka_gabrys@wp.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Zamkowa 30, 63-500 Ostrzeszów"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Witold",
+        "nazwisko": "Gabryś",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Poznań"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/gabry-witold-57017",
+        "nr_legitymacji": "POZ/Adw/1987",
+        "email": "kancelaria_adwokacka_gabrys@wp.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul.  Zamkowa 30, 63-500 Ostrzeszów"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Weronika",
+        "nazwisko": "Gąsiorek",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Poznań"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/gsiorek-weronika-36946",
+        "nr_legitymacji": "POZ/ADW/4307",
+        "email": "kancelaria.gasiorek@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Farna 8, 63-500 Ostrzeszów"
+        },
+        "specjalizacje": []
+    },
+    {
+        "imie": "Mateusz",
+        "nazwisko": "Horyza",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Poznań"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/horyza-mateusz-56652",
+        "nr_legitymacji": "POZ/Adw/3875",
+        "email": "kancelaria@adwokat-horyza.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Koźmińska 34  /2, 63-700 Krotoszyn"
+        },
+        "specjalizacje": [
+            "Prawo i postępowanie cywilne",
+            "Prawo i postępowanie karne",
+            "Prawo odszkodowawcze",
+            "Prawo rodzinne i opiekuńcze",
+            "Prawo spadkowe"
+        ]
+    },
+    {
+        "imie": "Joanna",
+        "nazwisko": "Królak",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Poznań"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/krlak-joanna-57439",
+        "nr_legitymacji": "POZ/Adw/1490",
+        "email": "kancelariakrolak@wp.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Zamkowa  30, 63-500 Ostrzeszów"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Tomasz",
+        "nazwisko": "Lamek",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Poznań"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/lamek-tomasz-57670",
+        "nr_legitymacji": "POZ/Adw/3053",
+        "email": "tomasz.lamek@adwokatura.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Borek 2, 63-500 Ostrzeszów"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna",
+            "Prawo i postępowanie cywilne",
+            "Prawo i postępowanie karne",
+            "Prawo rodzinne i opiekuńcze",
+            "Prawo spadkowe"
+        ]
+    },
+    {
+        "imie": "Katarzyna",
+        "nazwisko": "Lipnicka-Ręk",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Poznań"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/lipnicka-rk-katarzyna-57767",
+        "nr_legitymacji": "POZ/Adw/3159",
+        "email": "kancelaria.lipnicka@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Zamkowa 11  /1, 63-500 Ostrzeszów"
+        },
+        "specjalizacje": [
+            "Prawo budowlane i zagospodarowania przestrzennego",
+            "Prawo gospodarcze",
+            "Prawo i postępowanie cywilne",
+            "Prawo i postępowanie karne",
+            "Prawo rodzinne i opiekuńcze"
+        ]
+    },
+    {
+        "imie": "Szymon",
+        "nazwisko": "Stypuła",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Poznań"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/stypua-szymon-56754",
+        "nr_legitymacji": "POZ/Adw/3202",
+        "email": "kancelaria@adwokat-stypula.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Podhalańska 14, 60-615 Poznań"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Paweł",
+        "nazwisko": "Wala",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Poznań"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/wala-pawe-56642",
+        "nr_legitymacji": "POZ/Adw/1797",
+        "email": "kancelariawala@poczta.onet.pl",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "Piastowska  16, 63-500 Ostrzeszów"
+        },
+        "specjalizacje": [
+            "Praktyka ogólna"
+        ]
+    },
+    {
+        "imie": "Katarzyna",
+        "nazwisko": "Wiktorzak",
+        "status": "Wykonujący zawód",
+        "izba": {
+            "miasto": "Poznań"
+        },
+        "link_szczegoly": "https://www.rejestradwokatow.pl/adwokat/wiktorzak-katarzyna-82586",
+        "nr_legitymacji": "POZ/ADW/4984",
+        "email": "wiktorzak.adwokatura@gmail.com",
+        "kancelaria": {
+            "nazwa": "Kancelaria Adwokacka",
+            "adres": "ul. Kolejowa 19, 63-500 Ostrzeszów"
+        },
+        "specjalizacje": []
+    }
+]

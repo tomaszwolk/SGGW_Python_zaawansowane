@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.pytest_cache
+
+# Virtual environments
+.venv
+
+iaai/
+a.py
+iaai.zip
+sggw_python_adv-main/
+wyniki_test.json
